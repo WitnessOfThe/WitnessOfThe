@@ -3,7 +3,7 @@
 I am a junior machine learning engineer looking for a job. 
 
 🌱 I am currently learning more about machine learning and data science. I already got some experience with computer vision and image feature extraction. You can check out my rock/paper/scissor game [implementation](https://github.com/WitnessOfThe/computer-vision-rock-paper-scissors), where you can play the game with a computer using your webcam. For more real-world problems, I made a feature extraction API for building a recommendation ranking system, check it out [here](https://github.com/WitnessOfThe/facebook-marketplaces-recommendation-ranking-system).
-As of now, I am actualizing my knowledge of the decision forest models and algorithms  :evergreen_tree: :deciduous_tree:, to be able to create powerful pipelines for business purposes.
+As of now, I am actualizing my knowledge of the decision forest models and algorithms  :evergreen_tree: :deciduous_tree: to be able to create powerful pipelines for business purposes.
 
 I am fluent in **Python** and **Matlab**; <br />
 I have a good grasp of **pandas** to process the data and upload it to **PostgreSQL** database; <br />
