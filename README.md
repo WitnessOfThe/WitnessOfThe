@@ -6,8 +6,8 @@ I am a junior machine learning engineer looking for a job.
 As of now, I am actualizing my knowledge of the decision forest models and algorithms  :evergreen_tree: :deciduous_tree: to be able to create powerful pipelines for business purposes.
 
 I am fluent in **Python** and **Matlab**; <br />
-I have a good grasp of **pandas** to process the data and upload it to **PostgreSQL** database; <br />
-I am familier with **Docker** and **FastAPI** enough to deploy (Operating!) container in **AWS** using **docker-compose**; <br />
+I have a good grasp of **Pandas** to process the data and upload it to **PostgreSQL** database; <br />
+I am familier with **Docker** and **FastAPI** enough to deploy (Operating!) container in **AWS** using **Docker-compose**; <br />
 I got deep into **PyTorch** to apply transfer learning to solve image classification and feature extraction problems to build the **FAISS** index, while **TensorBoard** came quite handy during model training.
 
 <!--
