@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there :wave:!
+
+I am a junior machine learning engineer and looking for a job to perfect my skills. 
+
+🌱 I am currently learning more about machine learning and data science. I already got some experience with computer vision and image feature extraction. You can check out my rock/paper/scissor game [implementation](https://github.com/WitnessOfThe/computer-vision-rock-paper-scissors), where you can play the game with a computer using your webcam! For more real-world problems, I made a feature extraction API, allowing you to build a recommendation ranking system, check it out [here](https://github.com/WitnessOfThe/facebook-marketplaces-recommendation-ranking-system)! 
+So, now I am going through the decision forest models and algorithms :evergreen_tree: :deciduous_tree:, as well as thinking about my next project to boost my portfolio
+
 
 <!--
 **WitnessOfThe/WitnessOfThe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
