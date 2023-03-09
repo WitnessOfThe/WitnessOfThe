@@ -7,7 +7,7 @@ As of now, I am actualizing my knowledge of the decision forest models and algor
 
 I am fluent in **Python** and **Matlab**; <br />
 I have a good grasp of **Pandas** to process the data and upload it to **PostgreSQL** database; <br />
-I am familiar with **Docker** and **FastAPI** enough to deploy (Operating and responsive!) containers in **AWS** using **Docker-compose**; <br />
+I am familiar with **Docker** and **FastAPI** enough to deploy operating and responsive :smirk: containers in **AWS** using **Docker-compose**; <br />
 I got deep into **PyTorch** to apply transfer learning to solve image classification and feature extraction problems to build the **FAISS** index, while **TensorBoard** came quite handy during model training.
 
 <!--
