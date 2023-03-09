@@ -3,12 +3,12 @@
 I am a junior machine learning engineer looking for a job. 
 
 🌱 I am currently learning more about machine learning and data science. I already got some experience with computer vision and image feature extraction. You can check out my rock/paper/scissor game [implementation](https://github.com/WitnessOfThe/computer-vision-rock-paper-scissors), where you can play the game with a computer using your webcam. For more real-world problems, I made a feature extraction API for building a recommendation ranking system, check it out [here](https://github.com/WitnessOfThe/facebook-marketplaces-recommendation-ranking-system).
-As of now, I am actualizing my knowledge of the decision forest models and algorithms  :evergreen_tree: :deciduous_tree: to be able to create powerful pipelines for business purposes.
+As of now, I am I am currently enhancing my understanding of decision forest models and algorithms with the goal of creating powerful business pipelines.
 
 I am fluent in **Python** and **Matlab**; <br />
 I have a good grasp of **Pandas** to process the data and upload it to **PostgreSQL** database; <br />
 I am familiar with **Docker** and **FastAPI** enough to deploy operating and responsive :smirk: containers in **AWS** using **Docker-compose**; <br />
-I got deep into **PyTorch** to apply transfer learning to solve image classification and feature extraction problems to build the **FAISS** index, while **TensorBoard** came quite handy during model training.
+I delved deeply into **PyTorch** and applied transfer learning to solve image classification and feature extraction problems with the final goal to build the **FAISS** index. Throughout the model training, **TensorBoard** came quite handy.
 
 <!--
 **WitnessOfThe/WitnessOfThe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
